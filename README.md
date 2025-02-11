@@ -1,4 +1,4 @@
-# SARIMA_Model_Weather_Forecast
+## SARIMA_Model_Weather_Forecast
 
 SARIMA Model :- A effective machine learning technique for weather prediction 
 Making forecasts or projections about future events or conditions based on historical and current data is the process of forecasting. It is an important tool for decision-making in many fields, including business, economics, finance, and weather forecasting, among others.the goal of forecasting is to reduce uncertainty about the future and provide meaning information that can guide strategic planning and decision-making
